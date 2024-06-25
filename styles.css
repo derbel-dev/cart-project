@@ -1,0 +1,29 @@
+body {
+    h1 {
+        color: rgb(0, 94, 255); /* Change the color to your preferred choice */
+    }
+    font-family: Arial, sans-serif;
+    margin: 20px;
+        
+    h2 {
+        color: darkblue;           /* Change text color */
+        background-color: lightgray; /* Add a background color */
+        padding: 10px;              /* Add padding */
+        border-radius: 5px;         /* Rounded corners */
+        text-align: center;         /* Center align the text */
+        font-family: 'Arial', sans-serif; /* Change font */
+        box-shadow: 2px 2px 5px rgba(0,0,0,0.1); /* Add a subtle shadow */
+        margin-top: 20px;           /* Add some space above */
+    }
+}
+
+.cart-item {
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.like-button.liked {
+    color: rgb(255, 0, 170);
+
+}
